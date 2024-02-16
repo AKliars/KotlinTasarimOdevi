@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KotlinTasarimOdevi</string>
+    <string name="yaziBaslik">En hızlı yemek&#xD; kapınıza teslimat</string>
+    <string name="yaziDetay">Size mümkün olan en hızlı ve kaliteli şekilde yiyecek teslim edeceğiz</string>
+    <string name="buttonName">Devam et</string>
+</resources>
